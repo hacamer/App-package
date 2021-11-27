@@ -1,1 +1,1 @@
-@echo off&for %%i in (*.exe) do start /wait "%%i"
+@echo off&for %%i in (*.exe) do start /wait %%i /s
