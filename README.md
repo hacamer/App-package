@@ -23,6 +23,8 @@ Snipaste：[官方版](https://www.snipaste.com/) 来源 `Offical Website`
 
 PowerToys：[安装版/便携版](https://github.com/microsoft/PowerToys/releases) 来源 `Github`
 
+Mem Reduct：[便携版](https://github.com/henrypp/memreduct/releases) 来源 `Github`
+
 #### 音频增强
 
 FxSound：[官方版](https://www.fxsound.com/) 来源 `Offical Website`
