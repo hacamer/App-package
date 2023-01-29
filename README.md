@@ -11,6 +11,22 @@ Typora：[高级版](https://www.ghxi.com/typora.html) 来源 `果核脱壳`
 
 Notepad3：[安装版/便携版](https://github.com/rizonesoft/Notepad3/releases) 来源 `Github`
 
+Visual Studio Code：[官方版](https://code.visualstudio.com/Download) 来源 `Offical Website`
+
+#### 终端管理
+
+Tabby：[安装版/便携版](https://github.com/Eugeny/tabby/releases) 来源`Github`
+
+Git：[官方版](https://git-scm.com/downloads) 来源 `Offical Website`
+
+#### 文档处理
+
+WPS企业版：[官方版](https://ep.wps.cn/download) 来源 `Offical Website`
+
+#### 文件搜索
+
+Everything：[安装版/便携版](https://www.voidtools.com/downloads/) 来源 `Offical Website`
+
 #### 音视播放
 
 foobar2000：[便携版](https://www.cnblogs.com/asionwu) 来源 `asionwu Blog`
