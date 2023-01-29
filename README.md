@@ -17,6 +17,10 @@ foobar2000：[便携版](https://www.cnblogs.com/asionwu) 来源 `asionwu Blog`
 
 Potplayer：[便携版](https://flowus.cn/share/4dc25551-ad00-4d81-9421-b3fee98757a9) 来源 `阿虚同学`
 
+#### 下载工具
+
+IDM：[高级版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html) 来源 `lrepacks`
+
 #### 粘贴板
 
 Ditto：[安装版/便携版](https://github.com/sabrogden/Ditto/releases) 来源 `Github`
