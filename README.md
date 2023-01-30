@@ -13,6 +13,12 @@ Notepad3：[安装版/便携版](https://github.com/rizonesoft/Notepad3/releases
 
 Visual Studio Code：[官方版](https://code.visualstudio.com/Download) 来源 `Offical Website`
 
+#### 空间管理
+
+WizTree：[安装版/便携版](https://diskanalyzer.com/download) 来源 `Offical Website`
+
+Clean My PC：[高级版](https://www.ghxi.com/cleanmypc.html) 来源 `果壳脱壳`
+
 #### 终端管理
 
 Tabby：[安装版/便携版](https://github.com/Eugeny/tabby/releases) 来源`Github`
