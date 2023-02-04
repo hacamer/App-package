@@ -20,6 +20,8 @@ Clean My PC：[高级版](https://www.ghxi.com/cleanmypc.html) 来源 `果壳脱
 
 CCleaner：[高级版](https://lrepacks.net/repaki-sistemnyh-programm/84-ccleaner-professional-repack-amp-portable.html) 来源 `lrepacks`
 
+金山毒霸 · 垃圾清理：[独立版](https://www.yhxs3344.net/3004/) 来源  `www.yhxs3344.net`
+
 ## 终端管理
 
 Tabby：[安装版/便携版](https://github.com/Eugeny/tabby/releases) 来源`Github`
